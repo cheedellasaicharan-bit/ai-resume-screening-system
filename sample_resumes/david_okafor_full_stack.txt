@@ -1,0 +1,18 @@
+David Okafor
+FICTIONAL SAMPLE RESUME - not a real person
+
+Summary
+Full-stack developer, 4 years of experience with JavaScript and TypeScript applications.
+
+Experience
+Full Stack Developer, Pixelforge Demo (fictional)  Feb 2022 - Present
+- Built React and TypeScript front ends styled with Tailwind CSS.
+- Created Node.js REST APIs with MongoDB; used Docker and Git daily.
+Web Developer, Studio Example (fictional)  Aug 2020 - Jan 2022
+- Delivered HTML, CSS and JavaScript websites; some Python scripting for automation.
+
+Education
+Bachelor of Science in Information Technology, Sample University, 2020
+
+Skills
+JavaScript, TypeScript, React, Node.js, HTML, CSS, Tailwind, MongoDB, Docker, Git, REST APIs, Python (basic)

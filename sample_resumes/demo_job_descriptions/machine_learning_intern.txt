@@ -1,0 +1,16 @@
+Machine Learning Intern
+
+An internship for students who want hands-on machine learning experience.
+
+Required skills:
+- Python
+- Machine learning fundamentals
+- scikit-learn, pandas and numpy
+- Git
+
+Preferred skills:
+- NLP
+- Deep learning with TensorFlow or PyTorch
+
+Qualifications:
+Pursuing or completed a Bachelor's degree in Computer Science, AI or a related field. No prior full-time experience required.

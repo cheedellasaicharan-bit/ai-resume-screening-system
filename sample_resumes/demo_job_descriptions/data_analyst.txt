@@ -1,0 +1,16 @@
+Data Analyst
+
+Join our analytics team to turn data into decisions.
+
+Required skills:
+- SQL and Excel
+- Power BI or Tableau dashboards
+- Data analysis and statistics
+- pandas for data cleaning
+
+Nice to have:
+- Python
+- Data visualization
+
+Qualifications:
+Bachelor's degree in Statistics, Mathematics, Business or a related field. At least 2 years of experience in an analytics role.

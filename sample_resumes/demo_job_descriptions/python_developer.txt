@@ -1,0 +1,16 @@
+Python Developer
+
+We are hiring a Python Developer to build backend services.
+
+Required skills:
+- Python and SQL
+- FastAPI or Flask for building REST APIs
+- Git and Docker
+- Unit testing with pytest
+
+Preferred skills:
+- AWS
+- CI/CD
+
+Qualifications:
+Bachelor's degree in Computer Science or a related field. Minimum 3 years of experience in backend development.

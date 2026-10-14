@@ -1,0 +1,19 @@
+Priya Nair
+FICTIONAL SAMPLE RESUME - not a real person
+
+Summary
+Backend Python developer with 5 years of experience building REST APIs and data services.
+
+Experience
+Senior Software Engineer, Nimbus Labs (fictional)  Mar 2021 - Present
+- Built FastAPI and Flask microservices serving internal analytics tools.
+- Designed REST APIs, wrote unit testing suites with pytest, and set up CI/CD with GitHub Actions.
+- Containerised services with Docker and deployed them on AWS.
+Software Engineer, Kiteworks Demo Co (fictional)  Jul 2019 - Feb 2021
+- Developed Django applications backed by PostgreSQL and MongoDB.
+
+Education
+B.Tech in Computer Science, Example Institute of Technology, 2019
+
+Skills
+Python, SQL, FastAPI, Flask, Django, Docker, AWS, Git, Linux, REST API, data structures, agile

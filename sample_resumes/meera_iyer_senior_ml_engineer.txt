@@ -1,0 +1,19 @@
+Meera Iyer
+FICTIONAL SAMPLE RESUME - not a real person
+
+Summary
+Machine learning engineer with 7 years of experience taking models from notebooks to production.
+
+Experience
+Senior Machine Learning Engineer, Vertex Demo Labs (fictional)  Apr 2020 - Present
+- Built NLP and deep learning pipelines in PyTorch and TensorFlow.
+- Led model deployment with Docker, Kubernetes and MLOps practices on AWS.
+- Applied feature engineering and scikit-learn baselines; mentored junior engineers.
+Data Scientist, Example Insights (fictional)  Jul 2018 - Mar 2020
+- Python, SQL, pandas and statistics for churn modelling.
+
+Education
+M.Tech in Artificial Intelligence, Example Institute of Technology, 2018
+
+Skills
+Python, machine learning, deep learning, NLP, PyTorch, TensorFlow, scikit-learn, Docker, Kubernetes, AWS, SQL, Git, spark

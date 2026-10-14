@@ -1,0 +1,20 @@
+Rahul Menon
+FICTIONAL SAMPLE RESUME - not a real person
+
+Summary
+Data analyst with 3 years of experience turning business data into dashboards and decisions.
+
+Experience
+Data Analyst, Brightline Retail (fictional)  Jan 2023 - Present
+- Built Power BI and Tableau dashboards for sales and inventory reporting.
+- Wrote complex SQL queries and cleaned data with Python and pandas.
+- Performed exploratory data analysis and hypothesis testing to support pricing decisions.
+- Automated weekly reports using advanced Excel.
+Junior Analyst, Harbor Analytics Demo (fictional)  Jun 2021 - Dec 2022
+
+Education
+Master of Business Administration (Analytics), Sample Business School, 2021
+B.Sc. in Statistics, Example University, 2019
+
+Skills
+SQL, Excel, Power BI, Tableau, Python, pandas, statistics, data visualization, communication skills

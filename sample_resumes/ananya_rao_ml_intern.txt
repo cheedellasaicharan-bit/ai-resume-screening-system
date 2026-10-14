@@ -1,0 +1,20 @@
+Ananya Rao
+FICTIONAL SAMPLE RESUME - not a real person
+
+Objective
+Final-year student seeking a Machine Learning internship.
+
+Education
+B.Tech in Computer Science and Engineering (AI and ML), Example College of Engineering, expected 2026
+
+Academic Projects
+- Resume classifier using NLP, TF-IDF and scikit-learn (accuracy 88% on a toy dataset).
+- Image classifier using TensorFlow and Keras on a public dataset; basic computer vision with OpenCV.
+- Exploratory data analysis notebooks with pandas, numpy and matplotlib.
+
+Internships
+Machine Learning Intern, Demo AI Studio (fictional)  Jun 2025 - Aug 2025
+- Fine-tuned small deep learning models and tracked experiments in Git.
+
+Skills
+Python, machine learning, deep learning, NLP, scikit-learn, TensorFlow, Keras, pandas, numpy, Git, statistics

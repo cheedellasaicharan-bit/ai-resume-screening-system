@@ -1,0 +1,15 @@
+Sam Walker
+FICTIONAL SAMPLE RESUME - not a real person
+
+Objective
+Recent graduate looking for an entry-level technology role.
+
+Education
+Bachelor of Arts in Business Studies, Sample University, 2025
+
+Projects
+- Built a small website with HTML and CSS for a campus club.
+- Used Excel for budgeting and basic reporting; completed an online Python introduction course.
+
+Skills
+Excel, HTML, CSS, communication skills, problem solving, basic Python
